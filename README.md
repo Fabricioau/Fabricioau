@@ -5,7 +5,7 @@ Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 Você pode entrar em contato comigo 📫 00001095461771sp@al.educacao.sp.gov.br
 :)
-![]
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzljaTBtN3pxdTh4dmVjMWpuM2YybDlmZmlhZDNoNXRvZzEwY29pYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jQX2Ow4bM5xxuM/giphy.gif)
 
 <!--
 **Fabricioau/Fabricioau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
